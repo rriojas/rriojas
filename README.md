@@ -11,9 +11,9 @@
 
 - 🌱 I’m currently learning **BI & Data Science**
 
-- 👨‍💻 All of my projects are available at [here](here)
+- 👨‍💻 All of my projects are available at [https://github.com/rriojas](https://github.com/rriojas)
 
-- 📝 I regularly write articles on [Wikipedia / Stackoverflow](Wikipedia / Stackoverflow)
+- 📝 I regularly write articles on [Wikipedia / Stackoverflow]
 
 - 💬 Ask me about **C#, VB .Net, SQL**
 
